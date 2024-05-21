@@ -10,14 +10,8 @@ The primary goal is to identify and understand the average age differences betwe
 
 ## Findings
  - Black individuals shot by police are on average 7 years younger than white individuals.
- - The effect size is 0.57, indicating a substantial difference.
- - Statistical tests confirm that this difference is highly significant (p < 0.0001).
-
-## Results
- - Average age for black individuals: 33.05 years.
- - Average age for white individuals: 40.27 years.
- - Significant age difference of 7.22 years with a Cohen’s d value of 0.57.
- - Monte Carlo p-value: 9.999 × 10^(-8), indicating statistical significance.
+ - The effect size (Cohen's d) is 0.57, indicating a substantial difference.
+ - Statistical tests confirm that this difference is highly significant (p < 0.0001) calculated using Monte Carlo.
 
 ## Conclusion
 The project highlights significant age disparities in police shootings across racial lines, emphasizing the need for equitable policing practices. 
