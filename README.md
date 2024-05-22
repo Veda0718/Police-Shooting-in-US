@@ -16,3 +16,5 @@ The primary goal is to identify and understand the average age differences betwe
 ## Conclusion
 The project highlights significant age disparities in police shootings across racial lines, emphasizing the need for equitable policing practices. 
 Further research is recommended to understand the underlying causes and develop effective interventions.
+
+***For a detailed report, read the PDF***
